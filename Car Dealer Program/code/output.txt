@@ -1,0 +1,146 @@
+Number of Vehicles that are sold: 0
+
+No Vehicle that is sold
+
+Total Amount of Money : 0.00
+Number of Vehicles that are sold: 0
+
+No Vehicle that is sold
+
+Total Amount of Money : 0.00
+Number of Vehicles that are sold: 2
+
+Type : Truck
+Model : Chrysler
+Age : 13
+Tonnage : 3432
+Price : 630778.03
+
+Type : Electric Car
+Model : Chevrolet
+Age : 20
+Battery Capacity : 206
+Number of Doors : 5
+Price : 122815.82
+
+
+Total Amount of Money : 753593.85
+
+Number of Vehicles that are sold: 6
+
+Type : Truck
+Model : Audi
+Age : 3
+Tonnage : 2789
+Price : 96967.71
+
+Type : Electric Car
+Model : CitroÃ«n
+Age : 11
+Battery Capacity : 503
+Number of Doors : 7
+Price : 981597.07
+
+Type : Petrol Car
+Model : Abarth
+Age : 5
+Fuel Capacity : 56
+Number of Doors : 7
+Price : 460337.15
+
+Type : Petrol Car
+Model : Daihatsu
+Age : 1
+Fuel Capacity : 80
+Number of Doors : 3
+Price : 109134.32
+
+Type : Truck
+Model : Abarth
+Age : 20
+Tonnage : 5000
+Price : 121761.67
+
+Type : Petrol Car
+Model : BMW
+Age : 20
+Fuel Capacity : 59
+Number of Doors : 3
+Price : 127400.80
+
+
+Total Amount of Money : 1897198.71
+
+Number of Vehicles that are sold: 0
+
+No Vehicle that is sold
+
+Total Amount of Money : 0.00
+Number of Vehicles that are sold: 0
+
+No Vehicle that is sold
+
+Total Amount of Money : 0.00
+Number of Vehicles that are sold: 2
+
+Type : Truck
+Model : Chrysler
+Age : 13
+Tonnage : 3432
+Price : 630778.03
+
+Type : Electric Car
+Model : Chevrolet
+Age : 20
+Battery Capacity : 206
+Number of Doors : 5
+Price : 122815.82
+
+
+Total Amount of Money : 753593.85
+
+Number of Vehicles that are sold: 6
+
+Type : Truck
+Model : Audi
+Age : 3
+Tonnage : 2789
+Price : 96967.71
+
+Type : Electric Car
+Model : CitroÃ«n
+Age : 11
+Battery Capacity : 503
+Number of Doors : 7
+Price : 981597.07
+
+Type : Petrol Car
+Model : Abarth
+Age : 5
+Fuel Capacity : 56
+Number of Doors : 7
+Price : 460337.15
+
+Type : Petrol Car
+Model : Daihatsu
+Age : 1
+Fuel Capacity : 80
+Number of Doors : 3
+Price : 109134.32
+
+Type : Truck
+Model : Abarth
+Age : 20
+Tonnage : 5000
+Price : 121761.67
+
+Type : Petrol Car
+Model : BMW
+Age : 20
+Fuel Capacity : 59
+Number of Doors : 3
+Price : 127400.80
+
+
+Total Amount of Money : 1897198.71
+

@@ -1,0 +1,12 @@
+print
+print
+Truck 13 Chrysler 596536.82 5.74 3432
+Electric 24 Chevrolet 122815.82 5 206
+print
+Truck 3 Audi 96803.14 0.17 2789
+Electric 11 CitroÃ«n 981597.07 7 503
+Petrol 5 Abarth 460337.15 7 56
+Petrol 1 Daihatsu 109134.32 3 81
+Truck 20 Abarth 118238.17 2.98 5498
+Petrol 26 BMW 127400.80 3 59
+print
